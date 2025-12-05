@@ -4,22 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 何夕2077 / justlovemaki
+#### 何夕2077 / justlovemaki 👋
 
-For a decade, code cooled my fingertips, and unexpressed frustrations simmered within. But then, the storm of AI began to roar! Now, I'm ready to throw myself into the fray and conquer the skies. ✨
+> For a decade, lines of code cooled my fingertips, a chest full of aspirations yet unspoken.
+> Then I heard the thunderous roar of AI, and swore to conquer the clouds and make my mark! 🚀
 
 #### My Code Philosophy 💡
 
-> Technology serves the people.
+> Technology: It's all about serving the people! 🤝
 
-#### My Key Projects 🛠️
+#### Awesome Projects ✨
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script, powered by Cloudflare Worker.
+    *   **CloudFlare-AI-Image:** This project is an AI image generation script, powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This content aggregation and generation platform, powered by Cloudflare Workers, is your daily go-to for the latest AI buzz! It curates industry news, hot open-source projects, cutting-edge research papers, and even insights from tech big shots on social media.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   **CloudFlare-AI-Insight-Daily:** This is a content aggregation and generation platform driven by Cloudflare Workers. It daily curates the latest in AI – including industry news, popular open-source projects, cutting-edge academic papers, and tech influencer social media buzz.
+*   Want more project deets? Check out my [GitHub](https://github.com/justlovemaki)! 😎
 
-#### My Current Deep Dives 🚀
+#### Current Adventures 🌱
 
-Right now, I'm super fascinated by LLM applications and website SEO. I'm actively diving into learning and getting my hands dirty with both!
+> **LLM applications and website SEO:** These are currently my jam! I'm super keen and actively diving deep into learning and putting them into practice. 🧠✨
